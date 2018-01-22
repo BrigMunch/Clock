@@ -11,12 +11,12 @@ Output Description
 The time in words, using 12-hour format followed by am or pm.
 
 Sample Input data
-00:00/n
-01:30
-12:05
-14:01
-20:29
-21:00
+00:00 
+01:30 
+12:05 
+14:01 
+20:29 
+21:00 
 
 Sample Output data
 It's twelve am
