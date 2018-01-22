@@ -11,7 +11,7 @@ Output Description
 The time in words, using 12-hour format followed by am or pm.
 
 Sample Input data
-00:00\n
+00:00/n
 01:30
 12:05
 14:01
