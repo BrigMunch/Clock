@@ -11,6 +11,7 @@ Output Description
 The time in words, using 12-hour format followed by am or pm.
 
 Sample Input data
+
 00:00 
 
 01:30 
@@ -23,10 +24,17 @@ Sample Input data
 
 21:00 
 
+
 Sample Output data
+
 It's twelve am
+
 It's one thirty am
+
 It's twelve oh five pm
+
 It's two oh one pm
+
 It's eight twenty nine pm
+
 It's nine pm
